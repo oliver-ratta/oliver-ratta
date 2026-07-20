@@ -13,4 +13,4 @@ Languages: C, GDScript, C++ (a little)
 
 Tools: VS Code, Git, KiCad, Godot, Arduino IDE
 
-contact: spg.revoke544@passinbox.com
+contact: spg.embark788@passinbox.com

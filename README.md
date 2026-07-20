@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey, I'm Oliver Ratta 👋
+High schooler interested in computer engineering and embedded dev. I create my own libraries like a real developer
 
-<!--
-**oliver-ratta/oliver-ratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I'm Currently Working On
+🔌 Hardware Projects: linux cyberdeck with esp32 in altoids box
 
-Here are some ideas to get you started:
+💻 Coding: polishing rollback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning: PCB design and cpu architecture
+
+💻 Stuff I Use
+Languages: C, GDScript, C++ (a little)
+
+Tools: VS Code, Git, KiCad, Godot, Arduino IDE
+
+contact: spg.revoke544@passinbox.com
